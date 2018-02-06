@@ -1,0 +1,94 @@
+#Sonic Trilogy|4
+GH|10:00
+*Green Hill Zone Act 1
+*Green Hill Zone Act 2
+*Green Hill Zone Act 3
+MZ|10:00
+*Marble Zone Act 1
+*Marble Zone Act 2
+*Marble Zone Act 3
+SY|10:00
+*Spring Yard Zone Act 1
+*Spring Yard Zone Act 2
+*Spring Yard Zone Act 3
+LZ|10:00
+*Labyrinth Zone Act 1
+*Labyrinth Zone Act 2
+*Labyrinth Zone Act 3
+SL|10:00
+*Star Light Zone Act 1
+*Star Light Zone Act 2
+*Star Light Zone Act 3
+SB|10:00
+*Scrap Brain Zone Act 1
+*Scrap Brain Zone Act 2
+*Scrap Brain Zone Act 3
+FZ|10:00
+*Final Zone
+EH|10:00
+*Emerald Hill Zone Act 1
+*Emerald Hill Zone Act 2
+CP|10:00
+*Chemical Plant Zone Act 1
+*Chemical Plant Zone Act 2
+AR|10:00
+*Aquatic Ruin Zone Act 1
+*Aquatic Ruin Zone Act 2
+CN|10:00
+*Casino Night Zone Act 1
+*Casino Night Zone Act 2
+HT|10:00
+*Hill Top Zone Act 1
+*Hill Top Zone Act 2
+MC|10:00
+*Mystic Cave Zone Act 1
+*Mystic Cave Zone Act 2
+OO|10:00
+*Oil Ocean Zone Act 1
+*Oil Ocean Zone Act 2
+Metro|10:00
+*Metropolis Zone Act 1
+*Metropolis Zone Act 2
+*Metropolis Zone Act 3
+SC|10:00
+*Sky Chase Zone
+WF|10:00
+*Wing Fortress Zone
+DE|10:00
+*Death Egg Zone
+AI|10:00
+*Angel Island Zone Act 1
+*Angel Island Zone Act 2
+HC|10:00
+*Hydrocity Zone Act 1
+*Hydrocity Zone Act 2
+MG|10:00
+*Marble Garden Zone Act 1
+*Marble Garden Zone Act 2
+CN|10:00
+*Carnival Night Zone Act 1
+*Carnival Night Zone Act 2
+IC|10:00
+*Ice Cap Zone
+LB|10:00
+*Launch Base Zone Act 1
+*Launch Base Zone Act 2
+MH|10:00
+*Mushroom Hill Zone Act 1
+*Mushroom Hill Zone Act 2
+FB|10:00
+*Flying Battery Zone Act 1
+*Flying Battery Zone Act 2
+SO|10:00
+*Sandopolis Zone Act 1
+*Sandopolis Zone Act 2
+LR|10:00
+*Lava Reef Zone Act 1
+*Lava Reef Zone Act 2
+HP|10:00
+*Hidden Palace Zone
+SS|10:00
+*Sky Sanctuary Zone
+DE|10:00
+*Death Egg Zone Act 1
+*Death Egg Zone Act 2

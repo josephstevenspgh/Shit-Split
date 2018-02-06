@@ -1,0 +1,43 @@
+v01
+# Make times accumulative
+# Enter/Return should automatically go to next split in TimeInput.py
+# Attempts counter
+
+v02
+# make the window a fixed size
+# One input to get to next input box in TimeInput.py
+# Stop using update() - Hackfix
+# Times add up wrong ?!
+
+v03
+# Ability to save new personal best
+# Change the way times are displayed - Only one column for times, bottom status bar
+# Split File Format
+# Make a program icon
+# Temporarily removed attempts counter
+
+v04
+# Readd attempt counter
+# Splits refresh properly after save
+# + - keys have special functions for time input
+# Right click context menu for saving and loading different split files
+
+v04 Bugfixes
+# Bugfix for Mac compatability
+# Bugfix - Session count carries over
+
+# Current Known Issue
+# Bugfix - Quit menu option stops working after starting splits
+
+v05
+# Save last loaded splits as default splits
+# Decimal Support
+# More preferences in the context menu
+
+Future
+# GUI for editing splits - Very low priority
+# Decimal support
+# Options dialog for colors/preferences
+# Stop using update()
+# Track completed attempts
+# Autosave feature
